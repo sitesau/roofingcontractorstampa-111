@@ -1,0 +1,22 @@
+{
+  "wheel_id": 697,
+  "structure": "umbrella",
+  "slug": "roofingcontractorstampa-111",
+  "project": "roof-repairs-tampa-pros-and-cons-29a1b8ce35eea09fc54d3c2a39da7c",
+  "parent_t1_ref": "roofingcontractorstampa-155",
+  "node_role": "feeder",
+  "money_target": "roofingcontractorstampa.com",
+  "primary_kw": "roof repairs tampa pros and cons",
+  "intended_url": "https://sitesau.github.io/roofingcontractorstampa-111/",
+  "tier": "T2",
+  "writeback_nonce": "9e9417a59d9f87d1",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/roof-repairs-tampa-checklist-19f5d5c5d4d44412f7be844331a85aefc5/",
+      "anchor": "the roof repairs tampa checklist overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
